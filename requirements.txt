@@ -1,6 +1,6 @@
+flask
 requests
 beautifulsoup4
 pandas
 python-dateutil
 feedparser
-streamlit
